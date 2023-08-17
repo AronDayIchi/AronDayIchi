@@ -28,8 +28,7 @@ Mi objetivo está en ejecutar y cumplir de manera conjunta y organizada con los 
 
 • NO TÉCNICAS:
 
-_Sentido de la responsabilidad.
-
+_Sentido de la responsabilidad.  
 _Confianza.
 _Capacidad de trabajar en equipo.
 _Iniciativa.
