@@ -14,7 +14,8 @@
 Creativo y proactivo, con capacidad de adaptación al cambio en una constante búsqueda de la mejora continua. Me capacito de manera continua para estar al día en el uso de softwares de Modelado, Análisis y Diseño Estructural y la programación con Mathcad Prime para optimizar procesos. Estoy comprometido con que mi desempeño profesional retribuya a mi país.
 Mi objetivo está en ejecutar y cumplir de manera conjunta y organizada con los requerimientos del entorno laboral además consolidar y ampliar mis conocimientos en todo momento.
 
- HABILIDADES 
+ HABILIDADES
+
 • INFORMÁTICAS:
  - ETABS
  - SAP2000
