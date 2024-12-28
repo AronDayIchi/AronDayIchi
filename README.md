@@ -10,7 +10,7 @@
 
 
 <h3 align="left"> Acerca de mi:</h3>
-¡Hola! Soy Aron Day Ichi , estudiante del décimo ciclo de la carrera de Ingeniería Civil, de la Universidad César Vallejo, con interés en el Análisis y Diseño Estructural y la metodología BIM. En busca de oportunidades que me permitan crecer de forma profesional, académica y personal. Motivado para enfrentar nuevos desafíos y poder aportar todo mi empeño y ganas de aprender.
+¡Hola! Soy Aron Day Ichi, Bachiller de Ingeniería Civil de la Universidad César Vallejo, de la Universidad César Vallejo, con interés en el Análisis y Diseño Estructural y la metodología BIM. En busca de oportunidades que me permitan crecer de forma profesional, académica y personal. Motivado para enfrentar nuevos desafíos y poder aportar todo mi empeño y ganas de aprender.
 Creativo y proactivo, con capacidad de adaptación al cambio en una constante búsqueda de la mejora continua. Me capacito de manera continua para estar al día en el uso de softwares de Modelado, Análisis y Diseño Estructural y la programación con Mathcad Prime para optimizar procesos. Estoy comprometido con que mi desempeño profesional retribuya a mi país.
 Mi objetivo está en ejecutar y cumplir de manera conjunta y organizada con los requerimientos del entorno laboral además consolidar y ampliar mis conocimientos en todo momento.
 
